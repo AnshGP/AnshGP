@@ -7,10 +7,10 @@ Building scalable SaaS products and transforming complex data into insightful, a
 ---
 
 ### 🚀 What I'm Up To
-- 🔭 I love exploring emerging technologies to build robust software solutions and intuitive data dashboards.
-- 📈 I am continuously refining my expertise in full-stack development and advanced data analysis.
-- 🤝 Feel free to reach out to me regarding potential collaborations or project opportunities.
-- 📄 Feel free to check out my **[Resume]** and **[Portfolio]** for more details. I am always open to feedback and suggestions!
+- I love exploring emerging technologies to build robust software solutions and intuitive data dashboards.
+- I am continuously refining my expertise in full-stack development and advanced data analysis.
+- Feel free to reach out to me regarding potential collaborations or project opportunities.
+- Feel free to check out my **[Resume]** and **[Portfolio]** for more details. I am always open to feedback and suggestions!
 
 ---
 
@@ -31,5 +31,5 @@ Building scalable SaaS products and transforming complex data into insightful, a
 ### 🗄️ Databases & Hosting Infrastructure
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=%2300C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white)
 
-### 🛠️ Version Control & Tools
+### 🛠️ Version Control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
