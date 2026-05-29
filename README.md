@@ -1,4 +1,4 @@
-# Hi, I'm Ansh Gupta 👋
+# Hi 👋, I'm Ansh Gupta
 
 ## 💫 About Me
 **Full-Stack Developer | Data Analyst**  
@@ -7,10 +7,10 @@ Building scalable SaaS products and transforming complex data into insightful, a
 ---
 
 ### 🚀 What I'm Up To
-🔭 I love exploring emerging technologies to build robust software solutions and intuitive data dashboards.
-📈 I am continuously refining my expertise in full-stack development and advanced data analysis.
-🤝 Feel free to reach out to me regarding potential collaborations or project opportunities.
-📄 Feel free to check out my **[Resume]** and **[Portfolio]** for more details. I am always open to feedback and suggestions!
+- 🔭 I love exploring emerging technologies to build robust software solutions and intuitive data dashboards.
+- 📈 I am continuously refining my expertise in full-stack development and advanced data analysis.
+- 🤝 Feel free to reach out to me regarding potential collaborations or project opportunities.
+- 📄 Feel free to check out my **[Resume]** and **[Portfolio]** for more details. I am always open to feedback and suggestions!
 
 ---
 
