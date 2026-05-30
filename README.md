@@ -10,7 +10,7 @@ Building scalable SaaS products and transforming complex data into insightful, a
 - I love exploring emerging technologies to build robust software solutions and intuitive data dashboards.
 - I am continuously refining my expertise in full-stack development and advanced data analysis.
 - Feel free to reach out to me regarding potential collaborations or project opportunities.
-- Feel free to check out my **[Resume]** and **[Portfolio]** for more details. I am always open to feedback and suggestions!
+- Feel free to check out my **[Portfolio]** for more details. I am always open to feedback and suggestions!
 
 ---
 
